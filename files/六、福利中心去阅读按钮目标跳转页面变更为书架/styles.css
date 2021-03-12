@@ -16,7 +16,7 @@
   position:absolute;
   z-index:0;
 }
-#u287_div {
+#u293_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -34,7 +34,7 @@
   font-weight:650;
   font-style:normal;
 }
-#u287 {
+#u293 {
   border-width:0px;
   position:absolute;
   left:50px;
@@ -46,19 +46,19 @@
   font-weight:650;
   font-style:normal;
 }
-#u287 .text {
+#u293 .text {
   position:absolute;
   align-self:flex-start;
   padding:0px 0px 0px 0px;
   box-sizing:border-box;
   width:100%;
 }
-#u287_text {
+#u293_text {
   border-width:0px;
   white-space:nowrap;
   text-transform:none;
 }
-#u288_img {
+#u294_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -66,7 +66,7 @@
   width:250px;
   height:564px;
 }
-#u288 {
+#u294 {
   border-width:0px;
   position:absolute;
   left:50px;
@@ -75,20 +75,20 @@
   height:564px;
   display:flex;
 }
-#u288 .text {
+#u294 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u288_text {
+#u294_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
   visibility:hidden;
 }
-#u289_img {
+#u295_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -96,7 +96,7 @@
   width:200px;
   height:422px;
 }
-#u289 {
+#u295 {
   border-width:0px;
   position:absolute;
   left:429px;
@@ -105,20 +105,20 @@
   height:422px;
   display:flex;
 }
-#u289 .text {
+#u295 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u289_text {
+#u295_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
   visibility:hidden;
 }
-#u290_div {
+#u296_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -136,7 +136,7 @@
   -webkit-box-shadow:none;
   box-shadow:none;
 }
-#u290 {
+#u296 {
   border-width:0px;
   position:absolute;
   left:226px;
@@ -145,20 +145,20 @@
   height:33px;
   display:flex;
 }
-#u290 .text {
+#u296 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u290_text {
+#u296_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
   visibility:hidden;
 }
-#u291 {
+#u297 {
   border-width:0px;
   position:absolute;
   left:300px;
@@ -166,7 +166,7 @@
   width:0px;
   height:0px;
 }
-#u291_seg0 {
+#u297_seg0 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -174,7 +174,7 @@
   width:69px;
   height:10px;
 }
-#u291_seg1 {
+#u297_seg1 {
   border-width:0px;
   position:absolute;
   left:59px;
@@ -182,7 +182,7 @@
   width:10px;
   height:104px;
 }
-#u291_seg2 {
+#u297_seg2 {
   border-width:0px;
   position:absolute;
   left:59px;
@@ -190,7 +190,7 @@
   width:70px;
   height:10px;
 }
-#u291_seg3 {
+#u297_seg3 {
   border-width:0px;
   position:absolute;
   left:116px;
@@ -198,7 +198,7 @@
   width:19px;
   height:18px;
 }
-#u291_text {
+#u297_text {
   border-width:0px;
   position:absolute;
   left:14px;
@@ -208,7 +208,7 @@
   text-transform:none;
   visibility:hidden;
 }
-#u292_div {
+#u298_div {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -226,7 +226,7 @@
   font-weight:400;
   font-style:normal;
 }
-#u292 {
+#u298 {
   border-width:0px;
   position:absolute;
   left:50px;
@@ -238,19 +238,19 @@
   font-weight:400;
   font-style:normal;
 }
-#u292 .text {
+#u298 .text {
   position:absolute;
   align-self:flex-start;
   padding:0px 0px 0px 0px;
   box-sizing:border-box;
   width:100%;
 }
-#u292_text {
+#u298_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
 }
-#u293_img {
+#u299_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -258,7 +258,7 @@
   width:201px;
   height:2px;
 }
-#u293 {
+#u299 {
   border-width:0px;
   position:absolute;
   left:50px;
@@ -267,14 +267,14 @@
   height:1px;
   display:flex;
 }
-#u293 .text {
+#u299 .text {
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
-#u293_text {
+#u299_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
